@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "194153030339",
+    "firebase_url": "https://medipack-3ff9c.firebaseio.com",
+    "project_id": "medipack-3ff9c",
+    "storage_bucket": "medipack-3ff9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194153030339:android:31d9dfe1abbe37bf",
+        "android_client_info": {
+          "package_name": "com.example.ravi.medipack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194153030339-kusjj1la2q2l97r1fefa5pjd110sgbbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravi.medipack",
+            "certificate_hash": "3b3def9646a1871699eb5321fb84209a4e9c6e24"
+          }
+        },
+        {
+          "client_id": "194153030339-scuku5u0p4hrd1j1oqlp9khirv5g54v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMuRzN3UBlZUNd_FVVah_jl43M7bes1po"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194153030339-scuku5u0p4hrd1j1oqlp9khirv5g54v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
